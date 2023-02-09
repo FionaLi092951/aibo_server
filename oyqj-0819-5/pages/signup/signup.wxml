@@ -1,0 +1,151 @@
+
+<view class="appointment">
+  <view class="app-moduler">
+    <navigator url="/pages/reserverdetaillist/reserverdetaillist?id=1" class="mod-item">
+      <view class="mod-signup">
+        <image src="{{signupimg}}"></image>
+      </view>
+      <view class="mod-img">
+        <image src="{{imgsrc}}" class="mod-image"></image>
+      </view>
+      <view class="mod-title">
+         <text>精品钢琴课</text>  
+      </view>
+      <view class="mod-info">
+        <view class="mod-icon">
+          <image src="{{iconsrc}}" class="icon"></image>
+        </view>
+        <view class="moinfont">优惠促销:1元试听</view>
+      </view>
+    </navigator>
+    
+    <navigator url="/pages/reserverdetaillist/reserverdetaillist?id=2" class="mod-item">
+      <view class="mod-signup">
+        <image src="{{signupimg}}"></image>
+      </view>
+      <view class="mod-img">
+        <image src="{{imgsrc}}" class="mod-image"></image>
+      </view>
+      <view class="mod-title">
+         <text>精品吉他课</text>  
+      </view>
+      <view class="mod-info">
+        <view class="mod-icon">
+          <image src="{{iconsrc}}" class="icon"></image>
+        </view>
+        <view class="moinfont">优惠促销:1元试听</view>
+      </view>
+    </navigator>
+
+    <navigator url="/pages/reserverdetaillist/reserverdetaillist?id=3" class="mod-item">
+      <view class="mod-signup">
+        <image src="{{signupimg}}"></image>
+      </view>
+      <view class="mod-img">
+        <image src="{{imgsrc}}" class="mod-image"></image>
+      </view>
+      <view class="mod-title">
+         <text>精品小提琴课</text>  
+      </view>
+      <view class="mod-info">
+        <view class="mod-icon">
+          <image src="{{iconsrc}}" class="icon"></image>
+        </view>
+        <view class="moinfont">优惠促销:1元试听</view>
+      </view>
+    </navigator>
+
+    <navigator url="/pages/reserverdetaillist/reserverdetaillist?id=4" class="mod-item">
+      <view class="mod-signup">
+        <image src="{{signupimg}}"></image>
+      </view>
+      <view class="mod-img">
+        <image src="{{imgsrc}}" class="mod-image"></image>
+      </view>
+      <view class="mod-title">
+         <text>精品声乐课</text>  
+      </view>
+      <view class="mod-info">
+        <view class="mod-icon">
+          <image src="{{iconsrc}}" class="icon"></image>
+        </view>
+        <view class="moinfont">优惠促销:1元试听</view>
+      </view>
+    </navigator>
+
+    <navigator url="/pages/reserverdetaillist/reserverdetaillist?id=5" class="mod-item">
+      <view class="mod-signup">
+        <image src="{{signupimg}}"></image>
+      </view>
+      <view class="mod-img">
+        <image src="{{imgsrc}}" class="mod-image"></image>
+      </view>
+      <view class="mod-title">
+         <text>精品电子鼓课</text>  
+      </view>
+      <view class="mod-info">
+        <view class="mod-icon">
+          <image src="{{iconsrc}}" class="icon"></image>
+        </view>
+        <view class="moinfont">优惠促销:1元试听</view>
+      </view>
+    </navigator>
+
+    <navigator url="/pages/reserverdetaillist/reserverdetaillist?id=6" class="mod-item">
+      <view class="mod-signup">
+        <image src="{{signupimg}}"></image>
+      </view>
+      <view class="mod-img">
+        <image src="{{imgsrc}}" class="mod-image"></image>
+      </view>
+      <view class="mod-title">
+         <text>精品古筝课</text>  
+      </view>
+      <view class="mod-info">
+        <view class="mod-icon">
+          <image src="{{iconsrc}}" class="icon"></image>
+        </view>
+        <view class="moinfont">优惠促销:1元试听</view>
+      </view>
+    </navigator>
+
+    <navigator url="/pages/reserverdetaillist/reserverdetaillist?id=7" class="mod-item">
+      <view class="mod-signup">
+        <image src="{{signupimg}}"></image>
+      </view>
+      <view class="mod-img">
+        <image src="{{imgsrc}}" class="mod-image"></image>
+      </view>
+      <view class="mod-title">
+         <text>精品琵琶课</text>  
+      </view>
+      <view class="mod-info">
+        <view class="mod-icon">
+          <image src="{{iconsrc}}" class="icon"></image>
+        </view>
+        <view class="moinfont">优惠促销:1元试听</view>
+      </view>
+    </navigator>
+
+    <navigator url="/pages/reserverdetaillist/reserverdetaillist?id=8" class="mod-item">
+      <view class="mod-signup">
+        <image src="{{signupimg}}"></image>
+      </view>
+      <view class="mod-img">
+        <image src="{{imgsrc}}" class="mod-image"></image>
+      </view>
+      <view class="mod-title">
+         <text>精品萨克斯课</text>  
+      </view>
+      <view class="mod-info">
+        <view class="mod-icon">
+          <image src="{{iconsrc}}" class="icon"></image>
+        </view>
+        <view class="moinfont">优惠促销:1元试听</view>
+      </view>
+    </navigator>
+
+   </view>
+</view>
+
+

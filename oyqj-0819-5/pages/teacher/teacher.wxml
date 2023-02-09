@@ -1,0 +1,51 @@
+<view class="content">
+
+
+    <swiper height="800"
+    indicator-dots="{{indicatorDots}}"
+    autoplay="{{autoplay}}" interval="{{interval}}" duration="{{duration}}">
+        <block wx:for="{{teacherList}}">
+        <swiper-item>
+
+            <image mode="widthFix" src="{{item.image}}" class="teacher-slide-image"/>
+            <text class="teacher-title">
+                {{item.title}}
+            </text>
+            <text class="teacher-desc">
+                {{item.desc}}
+            </text>
+        </swiper-item>
+        </block>
+    </swiper>
+
+  <!-- <navigator url="/pages/teacherlist/teacherlist" hover-class="navigator-hover" class="con-teacher">
+    <view class="con-tr">
+      <image src="{{trimg}}" class="con-trimg"></image>
+    </view>
+    <view class="con-info">
+      <view class="coin-name">姓名姓名</view>
+      <view class="coin-info">讲课风格：简介简介简介简介简介简介简</view>
+    </view>
+  </navigator>
+
+  <navigator url="url" class="con-teacher">
+    <view class="con-tr">
+      <image src="{{trimg}}" class="con-trimg"></image>
+    </view>
+    <view class="con-info">
+      <view class="coin-name">姓名姓名</view>
+      <view class="coin-info">讲课风格：简介简介简介简介简介简介简</view>
+    </view>
+  </navigator>
+
+  <navigator url="url" class="con-teacher">
+    <view class="con-tr">
+      <image src="{{trimg}}" class="con-trimg"></image>
+    </view>
+    <view class="con-info">
+      <view class="coin-name">姓名姓名</view>
+      <view class="coin-info">讲课风格：简介简介简介简介简介简介简</view>
+    </view>
+  </navigator> -->
+
+</view>
